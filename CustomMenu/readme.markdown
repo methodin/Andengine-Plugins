@@ -39,7 +39,7 @@ The main function you use to add any Shape derived item (Sprite, Animated Sprite
 ## br()
 ## br(float spacing)
 
-Adds a break to move the next added item to a new line in the Menu. The optional
+Adds a break to move the next added item to a new line in the Menu. The optional spacing parameter will add padding between the lines.
 
 ## container()
 
