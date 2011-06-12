@@ -57,4 +57,6 @@ You can initialize the animator with an optional spacing that will add padding a
 
 # NOTES:
 
+CustomMenuAnimator extends the AlphaMenuAnimator.
+
 Setting an item to visible=false will make that object disappear from the menu and the space it takes up will no longer be there. In order for this to work properly you must call myCustomMenuScene.buildAnimations() after modifying any of the items you added.
